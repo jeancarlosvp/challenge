@@ -48,5 +48,5 @@ En el día 18 tenemos un total de 26 aliens, y luego de 80 días tendríamos un 
 
 Dado el siguiente [input](https://gist.github.com/cococov/9c3bad3ad672186fa6a674d040f44c5c)...
 
-1.  **¿Cuantos aliens tendríamos en el planeta luego de 80 días?**
+1.  **¿Cuantos aliens tendríamos en el planeta luego de 80 días?** 386536 aliens
 2.  **¿Cuantos aliens tendríamos en el planeta luego de 256 días?**
